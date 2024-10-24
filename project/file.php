@@ -1,1 +1,3 @@
 <?php
+return 'Hello, World!';
+?>

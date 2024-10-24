@@ -1,1 +1,1 @@
-<?php
+<td><?= $content ?></td>
